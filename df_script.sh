@@ -11,3 +11,6 @@ free -h
 # Check running services
 echo "Running Services:"
 systemctl list-units --type=service --state=running
+
+
+#Adding this line to see if git pull works
