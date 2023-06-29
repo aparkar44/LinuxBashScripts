@@ -8,7 +8,11 @@ cleanup_dir = "/directory_1"
 
 #Number of days to keep files
 
-days_to_keep = 7 
+# days_to_keep = 7 
+
+days_to_keep = 15
+
+#Changed the number of days from 7 to 15 to verify that git pull works and updates changes accordingly.
 
 # Find and delete files that are older than the specified days.
 
